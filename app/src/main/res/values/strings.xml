@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Crumb &amp; Tier</string>
+    <string name="hero_subtitle">Artisan Cake Order &amp; Production Studio</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_customers">Customers</string>
+    <string name="nav_inventory">Pantry</string>
+    <string name="nav_tier_studio">Tiers</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_payments">Payments</string>
+    <string name="action_new_order">New Cake Order</string>
+    <string name="action_new_customer">New Customer</string>
+    <string name="action_new_ingredient">Add Ingredient</string>
+    <string name="action_order_summary">Order Summary</string>
+    <string name="search_orders_hint">Search client, flavor, event, or inscription…</string>
+    <string name="empty_orders_title">No cake orders match this filter</string>
+    <string name="empty_orders_subtitle">Tap New Cake Order to record a custom design, tier sizing, delivery window, and deposit.</string>
+    <string name="label_servings">Servings</string>
+    <string name="label_delivery">Delivery</string>
+    <string name="label_pickup">Studio Pickup</string>
+    <string name="label_payment_status">Payment Status</string>
+    <string name="action_record_payment">Record Payment</string>
+    <string name="action_advance_stage">Advance Stage</string>
+    <string name="action_edit_order">Edit Order</string>
+    <string name="action_delete_order">Delete Order</string>
+    <string name="action_pick_photo">Pick Reference Photo</string>
+    <string name="action_save_order">Save Cake Order</string>
+    <string name="action_use_tier_setup">Create Order with This Tier Setup</string>
+</resources>

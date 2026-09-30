@@ -1,0 +1,6 @@
+{
+  "name": "Crumb & Tier",
+  "description": "Artisan cake order planner for home bakers to track custom cake designs, tier serving calculations, delivery schedules, and client payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
